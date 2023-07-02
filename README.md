@@ -1,6 +1,7 @@
 # Windows 11 Homepage Recreation
 This is a simple web page that replicates a basic Windows 11-like desktop interface. The page includes a taskbar and a start menu that can be toggled.
 
+
 # Introduction
 The "Windows 11" web page provides a visual representation of a desktop interface similar to the Windows 11 operating system. 
 It consists of a taskbar and a start menu, which can be interacted with by clicking on the taskbar.
